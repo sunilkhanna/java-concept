@@ -9,7 +9,7 @@ public class Test {
 	
 	System.out.println("4 comit");
 	System.out.println("5 comit");
-	
+	System.out.println("6 comit");
     }
 
 }
